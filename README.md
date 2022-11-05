@@ -12,5 +12,8 @@ npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
 
-# Frontend UI here:
+# Frontend UI:
 https://waveportal-starter-project.adriancardoza.repl.co/
+
+# Contract Address:
+https://goerli.etherscan.io/address/0x86F11D37C59440E784AB2F79aA6b6b00aA9F6954
